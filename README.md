@@ -6,7 +6,7 @@
 
 **[Download the Complete Media Kit (ZIP)](https://github.com/L2715915020-stack/two-fingers-artwork/releases/download/media-kit-v2/one-winner-two-fingers-media-kit.zip)**
 
-Includes the original film, the updated English-language poster, Chinese subtitles, and three original production screenshots. Download everything together or select individual files. No GitHub account is required.
+Includes the original film, the updated English-language poster, Chinese subtitles, and three original production screenshots. Download everything together or select individual files. No GitHub account is required. The director's photo is available as a separate download below.
 
 | Download | File Size |
 | --- | ---: |
@@ -17,6 +17,7 @@ Includes the original film, the updated English-language poster, Chinese subtitl
 | [Production Screenshot 01 (PNG)](https://github.com/L2715915020-stack/two-fingers-artwork/releases/download/media-kit-v1/one-winner-two-fingers-production-screenshot-01.png) | 527.6 KiB |
 | [Production Screenshot 02 (PNG)](https://github.com/L2715915020-stack/two-fingers-artwork/releases/download/media-kit-v1/one-winner-two-fingers-production-screenshot-02.png) | 307.0 KiB |
 | [Production Screenshot 03 (PNG)](https://github.com/L2715915020-stack/two-fingers-artwork/releases/download/media-kit-v1/one-winner-two-fingers-production-screenshot-03.png) | 366.0 KiB |
+| [Director's Photo (JPG)](https://github.com/L2715915020-stack/two-fingers-artwork/releases/download/media-kit-v2/one-winner-two-fingers-director-yion.jpg) | 1.48 MiB |
 | [File Checksums (SHA-256)](https://github.com/L2715915020-stack/two-fingers-artwork/releases/download/media-kit-v2/SHA256SUMS.txt) | 0.7 KiB |
 
 ## Film Details
