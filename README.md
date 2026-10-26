@@ -4,19 +4,20 @@
 
 ## Media Kit Downloads
 
-**[Download the Complete Media Kit (ZIP)](https://github.com/L2715915020-stack/two-fingers-artwork/releases/download/media-kit-v1/one-winner-two-fingers-media-kit.zip)**
+**[Download the Complete Media Kit (ZIP)](https://github.com/L2715915020-stack/two-fingers-artwork/releases/download/media-kit-v2/one-winner-two-fingers-media-kit.zip)**
 
-Includes the original film, one English-language poster, and three original production screenshots. Download the ZIP to get everything at once, or select individual files below. No GitHub account is required.
+Includes the original film, the updated English-language poster, Chinese subtitles, and three original production screenshots. Download everything together or select individual files. No GitHub account is required.
 
 | Download | File Size |
 | --- | ---: |
-| [Complete Media Kit (ZIP)](https://github.com/L2715915020-stack/two-fingers-artwork/releases/download/media-kit-v1/one-winner-two-fingers-media-kit.zip) | 634.84 MiB |
+| [Complete Media Kit (ZIP)](https://github.com/L2715915020-stack/two-fingers-artwork/releases/download/media-kit-v2/one-winner-two-fingers-media-kit.zip) | 635.88 MiB |
 | [Film (MP4)](https://github.com/L2715915020-stack/two-fingers-artwork/releases/download/media-kit-v1/one-winner-two-fingers-film.mp4) | 631.11 MiB |
-| [Poster (PNG)](https://github.com/L2715915020-stack/two-fingers-artwork/releases/download/media-kit-v1/one-winner-two-fingers-poster.png) | 2.55 MiB |
+| [Updated Poster (PNG)](https://github.com/L2715915020-stack/two-fingers-artwork/releases/download/media-kit-v2/one-winner-two-fingers-poster.png) | 3.57 MiB |
+| [Chinese Subtitles (SRT)](https://github.com/L2715915020-stack/two-fingers-artwork/releases/download/media-kit-v2/one-winner-two-fingers-subtitles.zh.srt) | 13.7 KiB |
 | [Production Screenshot 01 (PNG)](https://github.com/L2715915020-stack/two-fingers-artwork/releases/download/media-kit-v1/one-winner-two-fingers-production-screenshot-01.png) | 527.6 KiB |
 | [Production Screenshot 02 (PNG)](https://github.com/L2715915020-stack/two-fingers-artwork/releases/download/media-kit-v1/one-winner-two-fingers-production-screenshot-02.png) | 307.0 KiB |
 | [Production Screenshot 03 (PNG)](https://github.com/L2715915020-stack/two-fingers-artwork/releases/download/media-kit-v1/one-winner-two-fingers-production-screenshot-03.png) | 366.0 KiB |
-| [File Checksums (SHA-256)](https://github.com/L2715915020-stack/two-fingers-artwork/releases/download/media-kit-v1/SHA256SUMS.txt) | 0.6 KiB |
+| [File Checksums (SHA-256)](https://github.com/L2715915020-stack/two-fingers-artwork/releases/download/media-kit-v2/SHA256SUMS.txt) | 0.7 KiB |
 
 ## Film Details
 
@@ -25,15 +26,15 @@ Includes the original film, one English-language poster, and three original prod
 - Frame rate: 24 fps
 - Format: MP4 with HEVC video and AAC audio
 
-The supplied film has no embedded subtitle track. If it does not play in your browser, download it and open it in a compatible media player.
+Chinese subtitles are provided separately as SRT; they are not embedded in the film. The SRT preserves the supplied one-hour timeline timecodes (first cue: 01:00:03,375). Use a compatible media player and adjust its subtitle offset if needed.
 
-All media files are provided in their original quality. Production screenshots are preserved exactly as supplied. Download labels, filenames, and instructions are in English.
+The updated poster is 1168 x 1760. All downloadable media files retain their original content and quality. Download labels, filenames, and instructions are in English.
 
-[Open the Download Page](https://github.com/L2715915020-stack/two-fingers-artwork/releases/tag/media-kit-v1)
+[Open the Download Page](https://github.com/L2715915020-stack/two-fingers-artwork/releases/tag/media-kit-v2)
 
 ## Poster
 
-![One Winner Two Fingers Poster](media/Poster/one-winner-two-fingers-poster.png)
+![Updated English Poster](media/Poster/one-winner-two-fingers-poster.png)
 
 ## Production Screenshots
 
