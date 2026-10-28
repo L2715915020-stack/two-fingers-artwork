@@ -40,6 +40,7 @@ document.querySelectorAll('.image-open').forEach(button => button.addEventListen
   document.querySelector('#dialog-image').alt = button.dataset.title;
   document.querySelector('#dialog-title').textContent = button.dataset.title;
   document.querySelector('#dialog-download').href = button.dataset.downloadUrl || ((button.dataset.download === 'one-winner-two-fingers-poster.png' ? updatedDownloadBase : downloadBase) + button.dataset.download);
+  document.querySelector('#dialog-download').firstChild.textContent = button.dataset.download.endsWith('.jpg') ? 'Download original JPG ' : 'Download original PNG ';
   dialog.showModal();
   document.body.classList.add('dialog-open');
 }));
