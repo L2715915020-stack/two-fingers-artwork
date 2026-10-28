@@ -1,0 +1,909 @@
+1
+00:00:03,375 --> 00:00:05,000
+I'm so hungry.
+
+2
+00:00:05,000 --> 00:00:06,333
+I just want to go home and eat.
+
+3
+00:00:06,500 --> 00:00:07,125
+Yeah.
+
+4
+00:00:07,291 --> 00:00:08,250
+It's all because of sports day.
+
+5
+00:00:08,583 --> 00:00:10,541
+School should be over by now.
+
+6
+00:00:11,125 --> 00:00:12,291
+Well, you signed up for it.
+
+7
+00:00:12,958 --> 00:00:13,750
+I didn't want to.
+
+8
+00:00:14,333 --> 00:00:16,583
+Mr. Chen said each class had to send two
+people.
+
+9
+00:00:17,041 --> 00:00:18,083
+So I was just there to make up the numbers.
+
+10
+00:00:18,875 --> 00:00:19,750
+Hey, Zhu Tong.
+
+11
+00:00:20,083 --> 00:00:21,125
+Why did you sign up?
+
+12
+00:00:21,375 --> 00:00:22,125
+I...
+
+13
+00:00:22,875 --> 00:00:23,166
+Hey!
+
+14
+00:00:23,750 --> 00:00:24,875
+What are you doing here?
+
+15
+00:00:25,041 --> 00:00:26,166
+The race is about to start.
+
+16
+00:00:26,166 --> 00:00:26,541
+Yes, sir.
+
+17
+00:00:27,625 --> 00:00:27,958
+Yes, sir.
+
+18
+00:00:37,916 --> 00:00:39,416
+Across the mountains,
+
+19
+00:00:39,416 --> 00:00:40,833
+chasing the waves,
+
+20
+00:00:41,083 --> 00:00:42,125
+keep on running.
+
+21
+00:00:53,041 --> 00:00:54,083
+Why did I sign up?
+
+22
+00:00:54,666 --> 00:00:55,708
+I can't quite explain it.
+
+23
+00:00:56,208 --> 00:00:57,458
+On your marks!
+
+24
+00:00:57,750 --> 00:00:58,625
+Whatever happens,
+
+25
+00:00:59,416 --> 00:01:00,375
+I want to win.
+
+26
+00:01:30,291 --> 00:01:31,125
+You've been holding out on us!
+
+27
+00:01:31,250 --> 00:01:32,166
+You're so fast!
+
+28
+00:01:32,375 --> 00:01:33,291
+Yeah, exactly!
+
+29
+00:01:33,416 --> 00:01:34,333
+Nobody could catch you.
+
+30
+00:01:44,250 --> 00:01:45,083
+Wait for me!
+
+31
+00:01:51,958 --> 00:01:52,791
+Wait for me!
+
+32
+00:01:53,083 --> 00:01:53,958
+Wait for me!
+
+33
+00:01:54,208 --> 00:01:55,000
+Wait for me!
+
+34
+00:01:58,208 --> 00:02:00,000
+I don't want to go to school!
+
+35
+00:02:00,000 --> 00:02:01,208
+I don't want to go today!
+
+36
+00:02:01,208 --> 00:02:01,875
+Come on, hurry up!
+
+37
+00:02:01,875 --> 00:02:02,708
+We're going to be late.
+
+38
+00:02:02,833 --> 00:02:03,458
+Excuse me, coming through!
+
+39
+00:02:03,458 --> 00:02:04,333
+Could you move, please?
+
+40
+00:02:05,708 --> 00:02:06,583
+Move!
+
+41
+00:02:07,875 --> 00:02:09,125
+What the hell are you doing?
+
+42
+00:02:12,916 --> 00:02:13,833
+Oh, Mr. Zhu.
+
+43
+00:02:13,833 --> 00:02:15,458
+Everything you asked for is ready.
+
+44
+00:02:15,500 --> 00:02:16,875
+Did you bring the materials?
+
+45
+00:02:16,875 --> 00:02:18,333
+Don't worry. I've got everything.
+
+46
+00:02:18,416 --> 00:02:20,208
+Good. Wait for me outside the office.
+
+47
+00:02:22,708 --> 00:02:24,833
+Fuck. Working weekends again.
+
+48
+00:02:25,833 --> 00:02:26,625
+Let's go.
+
+49
+00:02:30,458 --> 00:02:31,250
+Come in.
+
+50
+00:02:32,458 --> 00:02:33,250
+Mr. Wang.
+
+51
+00:02:33,416 --> 00:02:34,583
+Sorry to bother you on the weekend.
+
+52
+00:02:35,041 --> 00:02:35,916
+How's it coming along?
+
+53
+00:02:37,416 --> 00:02:39,625
+The AI Running Assistant's main features
+work.
+
+54
+00:02:39,708 --> 00:02:40,875
+One more round of testing,
+
+55
+00:02:40,875 --> 00:02:42,000
+and we should be ready to release it.
+
+56
+00:02:43,125 --> 00:02:44,250
+As for user testing...
+
+57
+00:02:44,250 --> 00:02:45,083
+All right, I understand.
+
+58
+00:02:46,416 --> 00:02:47,500
+Can you finish it?
+
+59
+00:02:47,666 --> 00:02:48,458
+Yes.
+
+60
+00:02:48,625 --> 00:02:50,208
+Good. Leave the files here.
+
+61
+00:02:50,708 --> 00:02:52,250
+Zhu, stay a moment.
+
+62
+00:02:58,833 --> 00:03:00,791
+There'll be some personnel changes in late
+September.
+
+63
+00:03:01,416 --> 00:03:02,708
+The product director position is opening up.
+
+64
+00:03:02,708 --> 00:03:03,708
+Have you heard?
+
+65
+00:03:04,791 --> 00:03:05,708
+A little.
+
+66
+00:03:06,416 --> 00:03:08,500
+The boss has been watching your team lately.
+
+67
+00:03:08,916 --> 00:03:09,791
+You've got something promising.
+
+68
+00:03:09,791 --> 00:03:10,875
+It just needs one final push.
+
+69
+00:03:11,208 --> 00:03:12,375
+It's a horse race now.
+
+70
+00:03:12,416 --> 00:03:13,625
+Whichever team moves fastest
+
+71
+00:03:13,625 --> 00:03:14,375
+gets the prize.
+
+72
+00:03:14,375 --> 00:03:15,541
+You mean a full launch?
+
+73
+00:03:15,833 --> 00:03:16,750
+Don't get hung up on the wording.
+
+74
+00:03:16,750 --> 00:03:18,000
+Just make sure the boss sees it.
+
+75
+00:03:22,791 --> 00:03:25,083
+Mr. Wang, I've been a fast runner since I
+was a kid.
+
+76
+00:04:08,208 --> 00:04:09,541
+This project's really pushing everyone.
+
+77
+00:04:09,666 --> 00:04:11,250
+You've just joined us. Settling in okay?
+
+78
+00:04:11,500 --> 00:04:13,833
+It's fine. The AI runs alongside the users,
+
+79
+00:04:13,833 --> 00:04:15,375
+and we run alongside the project.
+
+80
+00:04:16,458 --> 00:04:18,458
+But with so many areas of AI,
+
+81
+00:04:18,458 --> 00:04:20,041
+why did you choose a running app?
+
+82
+00:04:20,083 --> 00:04:22,041
+It doesn't sound all that new.
+
+83
+00:04:23,208 --> 00:04:24,375
+Running is simple.
+
+84
+00:04:24,416 --> 00:04:25,500
+Fast is fast.
+
+85
+00:04:25,708 --> 00:04:27,041
+The numbers don't lie.
+
+86
+00:04:28,000 --> 00:04:29,375
+I want to come first.
+
+87
+00:04:30,750 --> 00:04:32,375
+First place sounds too aggressive.
+
+88
+00:04:32,791 --> 00:04:33,833
+Let's settle for second.
+
+89
+00:04:33,875 --> 00:04:34,958
+The tallest tree catches the wind.
+
+90
+00:04:37,791 --> 00:04:39,208
+You've been working hard lately.
+
+91
+00:04:40,416 --> 00:04:42,000
+What job isn't hard?
+
+92
+00:04:42,500 --> 00:04:44,708
+I overheard your talk with the boss that
+day.
+
+93
+00:04:44,875 --> 00:04:46,500
+The company really values this project.
+
+94
+00:04:46,625 --> 00:04:48,500
+One more push could get you promoted.
+
+95
+00:04:49,833 --> 00:04:50,958
+You're the one who deserves the credit.
+
+96
+00:04:51,208 --> 00:04:53,000
+Why do you push yourself so hard?
+
+97
+00:04:53,875 --> 00:04:54,791
+For the money.
+
+98
+00:04:57,708 --> 00:04:58,583
+What else?
+
+99
+00:04:59,875 --> 00:05:00,791
+That's it.
+
+100
+00:05:04,833 --> 00:05:06,583
+No traumatic family backstory?
+
+101
+00:05:07,083 --> 00:05:08,083
+A gambling father,
+
+102
+00:05:08,208 --> 00:05:09,208
+a sick mother,
+
+103
+00:05:09,291 --> 00:05:10,041
+a younger brother still in school,
+
+104
+00:05:10,041 --> 00:05:11,250
+and you, broken by it all?
+
+105
+00:05:12,750 --> 00:05:13,875
+What's wrong with you?
+
+106
+00:05:18,416 --> 00:05:19,375
+My name is Zhu Tong.
+
+107
+00:05:19,500 --> 00:05:21,375
+I'm a product manager at a small company.
+
+108
+00:05:21,708 --> 00:05:25,000
+Ever since I was little, I competed in
+everything: grades, sports.
+
+109
+00:05:25,041 --> 00:05:26,208
+Later, it was work.
+
+110
+00:05:26,375 --> 00:05:28,166
+But I always seemed to fall just short.
+
+111
+00:05:28,416 --> 00:05:29,416
+Never first in class.
+
+112
+00:05:29,416 --> 00:05:30,583
+Always second on the track.
+
+113
+00:05:30,625 --> 00:05:32,875
+Even as an adult, someone was always ahead
+of me.
+
+114
+00:05:33,291 --> 00:05:34,583
+Maybe I was short on luck,
+
+115
+00:05:34,666 --> 00:05:35,583
+or short on ability.
+
+116
+00:05:35,583 --> 00:05:37,375
+Or maybe my chance just hadn't come.
+
+117
+00:05:37,791 --> 00:05:38,833
+After graduating from college,
+
+118
+00:05:38,833 --> 00:05:40,291
+I joined a small company.
+
+119
+00:05:40,500 --> 00:05:42,833
+Over the years, I came close to first a few
+times.
+
+120
+00:05:43,000 --> 00:05:44,250
+Every time, I fell just short.
+
+121
+00:05:44,500 --> 00:05:46,291
+But at work, there's no medal for second
+place.
+
+122
+00:05:47,000 --> 00:05:49,083
+The Running Assistant was the first project
+I led.
+
+123
+00:05:49,375 --> 00:05:50,583
+And for the first time, I felt
+
+124
+00:05:51,083 --> 00:05:53,041
+that position was finally within reach.
+
+125
+00:05:53,500 --> 00:05:54,416
+September 30.
+
+126
+00:05:54,833 --> 00:05:56,958
+This time, I was sure.
+
+127
+00:05:57,583 --> 00:05:58,166
+I wanted to win.
+
+128
+00:06:01,166 --> 00:06:01,958
+Did you hear?
+
+129
+00:06:02,083 --> 00:06:03,625
+Xiao Wu from the other team got laid off.
+
+130
+00:06:04,000 --> 00:06:04,958
+She got laid off?
+
+131
+00:06:05,416 --> 00:06:06,708
+But she worked so hard.
+
+132
+00:06:06,875 --> 00:06:09,041
+God of Wealth, grant me my N-plus-one
+severance.
+
+133
+00:06:40,541 --> 00:06:43,583
+Next, the AI business and personnel changes.
+
+134
+00:06:45,458 --> 00:06:48,041
+Several of our projects have made good
+progress.
+
+135
+00:06:48,750 --> 00:06:50,458
+To support commercialization,
+
+136
+00:06:50,625 --> 00:06:52,833
+the company will launch an AI Health
+Assistant
+
+137
+00:06:53,458 --> 00:06:54,958
+within the Smart Sports Products Department.
+
+138
+00:06:55,625 --> 00:06:57,375
+The existing project teams will be
+reassigned.
+
+139
+00:06:58,250 --> 00:06:59,250
+Following management's decision,
+
+140
+00:06:59,791 --> 00:07:02,125
+Li Ming is promoted to product director
+
+141
+00:07:02,458 --> 00:07:05,000
+to lead the new department and its projects.
+
+142
+00:07:17,875 --> 00:07:20,041
+Thank you for your trust and support.
+
+143
+00:07:20,333 --> 00:07:22,458
+For running training, we've developed
+
+144
+00:07:22,458 --> 00:07:24,541
+personalized training plans, motion
+recognition,
+
+145
+00:07:24,541 --> 00:07:26,791
+and real-time running companionship.
+
+146
+00:07:27,041 --> 00:07:29,083
+The entire workflow is now operational.
+
+147
+00:07:29,291 --> 00:07:31,333
+In the next phase, we'll focus on
+
+148
+00:07:31,333 --> 00:07:33,750
+optimizing training data and
+commercialization,
+
+149
+00:07:33,958 --> 00:07:35,625
+with a view to launching soon.
+
+150
+00:07:39,208 --> 00:07:40,000
+What's going on?
+
+151
+00:07:40,000 --> 00:07:42,041
+I developed all the features in Li Ming's
+project.
+
+152
+00:07:42,041 --> 00:07:43,666
+How did he get the promotion?
+
+153
+00:07:44,625 --> 00:07:45,875
+I don't know the details.
+
+154
+00:07:46,208 --> 00:07:47,375
+The boss decided on the promotion.
+
+155
+00:07:47,375 --> 00:07:48,541
+It's not up to me.
+
+156
+00:07:48,875 --> 00:07:50,541
+I've seen how hard you've worked.
+
+157
+00:07:50,541 --> 00:07:52,000
+I'm sure there'll be another chance.
+
+158
+00:07:52,041 --> 00:07:52,750
+But...
+
+159
+00:07:52,750 --> 00:07:53,833
+Oh, it's raining.
+
+160
+00:07:57,000 --> 00:07:57,708
+Here's to a bright future!
+
+161
+00:07:58,166 --> 00:07:59,250
+Congratulations, Director Li.
+
+162
+00:07:59,291 --> 00:08:00,083
+Thank you.
+
+163
+00:08:30,500 --> 00:08:31,750
+Why?
+
+164
+00:08:32,333 --> 00:08:33,208
+Why?
+
+165
+00:08:33,750 --> 00:08:35,250
+I did all the work.
+
+166
+00:08:36,125 --> 00:08:37,458
+Why has it happened again?
+
+167
+00:08:38,500 --> 00:08:41,166
+Why do I always fall just short?
+
+168
+00:08:57,541 --> 00:08:58,791
+Could Zhu Tong's family come here, please?
+
+169
+00:08:58,791 --> 00:09:00,208
+The results are back.
+
+170
+00:09:00,625 --> 00:09:02,291
+His condition is not looking good.
+
+171
+00:09:02,666 --> 00:09:03,916
+He may only have a day or two left.
+
+172
+00:09:04,000 --> 00:09:04,916
+You should prepare yourselves.
+
+173
+00:09:27,875 --> 00:09:28,791
+Grandpa, what's wrong?
+
+174
+00:09:29,541 --> 00:09:30,375
+Young man,
+
+175
+00:09:31,000 --> 00:09:32,875
+I'd like to go a little further.
+
+176
+00:09:32,875 --> 00:09:34,625
+Could you push me over there?
+
+177
+00:09:34,750 --> 00:09:35,916
+I'll get a nurse.
+
+178
+00:09:36,125 --> 00:09:37,166
+They're very busy.
+
+179
+00:09:37,291 --> 00:09:38,208
+Let's not bother them.
+
+180
+00:09:38,958 --> 00:09:41,208
+Just unlock the brakes on my wheels.
+
+181
+00:09:41,375 --> 00:09:42,416
+We'll be there in no time.
+
+182
+00:09:44,750 --> 00:09:46,375
+This rain never lets up.
+
+183
+00:09:46,583 --> 00:09:48,708
+I know. The laundry won't dry.
+
+184
+00:09:49,666 --> 00:09:50,708
+Wait!
+
+185
+00:09:58,791 --> 00:09:59,750
+Oh no!
+
+186
+00:09:59,750 --> 00:10:00,791
+Something's happened!
+
+187
+00:10:06,791 --> 00:10:08,250
+Am I already dead?
+
+188
+00:10:19,458 --> 00:10:20,250
+Grandpa!
+
+189
+00:10:25,166 --> 00:10:26,333
+Grandpa, are you all right?
+
+190
+00:10:26,375 --> 00:10:27,916
+Those people back there keep calling you.
+
+191
+00:10:28,041 --> 00:10:29,500
+Why are you running so fast?
+
+192
+00:10:31,750 --> 00:10:33,708
+I can't catch up with you, Zhu Tong.
+
+193
+00:10:36,208 --> 00:10:38,000
+Your voice sounds so familiar.
+
+194
+00:10:38,541 --> 00:10:40,416
+Am I going senile?
+
+195
+00:10:41,125 --> 00:10:42,208
+That day after school,
+
+196
+00:10:42,208 --> 00:10:43,791
+why didn't you come with us?
+
+197
+00:10:43,791 --> 00:10:45,833
+Didn't we agree to have cake together?
+
+198
+00:10:46,250 --> 00:10:48,541
+I ate so much I got a stomachache.
+
+199
+00:10:51,416 --> 00:10:52,208
+Thank you.
+
+200
+00:10:53,250 --> 00:10:54,416
+Thank you, all of you.
+
+201
+00:10:54,791 --> 00:10:57,416
+But I'm used to being alone now.
+
+202
+00:10:57,500 --> 00:10:58,666
+You're not alone.
+
+203
+00:10:58,708 --> 00:10:59,833
+I'm just like you.
+
+204
+00:11:00,583 --> 00:11:02,041
+Someone who got left behind?
+
+205
+00:11:02,333 --> 00:11:03,583
+Yeah. That's right.
+
+206
+00:11:04,041 --> 00:11:06,833
+Looks like I never made it big after all.
+
+207
+00:11:07,583 --> 00:11:10,333
+I'm sorry. There's no road ahead.
+
+208
+00:11:10,333 --> 00:11:11,625
+This is as far as we go.
+
+209
+00:11:12,375 --> 00:11:15,291
+Is it over when the doctors and my family
+catch up?
+
+210
+00:11:17,916 --> 00:11:19,916
+How should I finish?
+
+211
+00:11:20,458 --> 00:11:22,041
+The way a runner-up would.
+
+212
+00:11:22,083 --> 00:11:23,458
+You still have one spectator.
+
+213
+00:11:23,458 --> 00:11:24,458
+Show him.
+
+214
+00:11:26,166 --> 00:11:28,750
+What's your name, young man?
+
+215
+00:11:30,416 --> 00:11:32,375
+My name is Hu Zhixiang.
+
+216
+00:11:33,500 --> 00:11:35,250
+When I was your age,
+
+217
+00:11:35,458 --> 00:11:36,958
+I took part in a school sports day.
+
+218
+00:11:37,208 --> 00:11:38,583
+I thought it was a sprint.
+
+219
+00:11:39,458 --> 00:11:41,083
+Turns out it was a marathon.
+
+220
+00:11:42,000 --> 00:11:42,625
+Now,
+
+221
+00:11:43,125 --> 00:11:44,125
+it's finally over.
+
+222
+00:11:45,000 --> 00:11:45,625
+Zhixiang,
+
+223
+00:11:46,250 --> 00:11:46,916
+watch closely.
